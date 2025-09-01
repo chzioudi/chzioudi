@@ -5,7 +5,7 @@
 
 ### 👩‍💻 Chi sono
 
-🌐 Sviluppatrice web specializzata nello sviluppo di interfacce moderne, responsive e funzionali.
+🌐 FrontEnd e BackEnd developper specializzata nello sviluppo di interfacce moderne, responsive e funzionali.
 
 💡 Sempre alla ricerca di nuove tecnologie per migliorare l’esperienza utente.
 
@@ -22,6 +22,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white)
+
 
 ---
 
@@ -36,9 +39,9 @@
 
 ### 📫 Contatti
 
-- 🌐 Portfolio: (https://www.chz-devweb.com/)(https://www.tuosito.com)
+- 🌐 Portfolio: (https://www.chz-devweb.com/)(
 - 💼 LinkedIn: [linkedin.com/in/tuo-nome](https://linkedin.com/in/tuo-nome)
-- ✉️ Email: tuo@email.com
+- ✉️ Email: chafikzioudi11@gmail.com
 
 ---
 
