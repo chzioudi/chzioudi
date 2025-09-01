@@ -1,4 +1,4 @@
-<h1 align="center">Ciao, sono [CHAFIK ZIOUDI] 👋</h1>
+<h1 align="center">Ciao, sono <span color="#00b9e7>CHAFIK ZIOUDI</span> 👋</h1>
 <h3 align="center">Web Developer appassionata di codice pulito, UI moderna e tecnologie web</h3>
 
 ---
