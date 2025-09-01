@@ -39,7 +39,7 @@
 
 ### 📫 Contatti
 
-- 🌐 Portfolio: (https://www.chz-devweb.com/)(
+- 🌐 Portfolio: (https://www.chz-devweb.com)
 - 💼 LinkedIn: [linkedin.com/in/tuo-nome](https://linkedin.com/in/tuo-nome)
 - ✉️ Email: chafikzioudi11@gmail.com
 
