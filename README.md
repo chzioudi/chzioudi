@@ -83,7 +83,7 @@
 
 - 🌍 Sito Web: [www.chz-devweb.com](https://www.chz-devweb.com)
 - 📬 Email: [chafikzioudi11@gmail.com](mailto:chafikzioudi11@gmail.com)
-- 💼 LinkedIn: *[in arrivo]*
+- 💼 LinkedIn: www.linkedin.com/in/chafik-zioud-abb035162
 
 ---
 
