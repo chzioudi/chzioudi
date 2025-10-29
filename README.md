@@ -73,7 +73,7 @@
 ## 🧩 Cosa sto facendo ora / What I'm working on
 
 - ✨ Miglioro il mio sito portfolio: [www.chz-devweb.com](https://www.chz-devweb.com)
-- 👨‍💻 Studio nuove tecnologie JavaScript (es. Next.js, TypeScript)
+- 👨‍💻 Studio nuove tecnologie JavaScript (es. REACT)
 - 📚 Aggiorno progetti su GitHub
 - 🤝 Aperto a collaborazioni freelance e nuove opportunità
 
