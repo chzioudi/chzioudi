@@ -8,7 +8,7 @@
 
 💻 Sono uno **sviluppatore web full stack** con esperienza in **front-end** e **back-end**, appassionato di interfacce moderne e usabilità.
 
-🎨 Lavoro anche con software di grafica come **Illustrator** e **Photoshop**, unendo **creatività e codice**.
+🎨 Lavoro anche con software di grafica come **Illustrator** , **InDesign**, **Figma** e **Photoshop**, unendo **creatività e codice**.
 
 🚀 Creo soluzioni web performanti, accessibili e curate nei dettagli.
 
