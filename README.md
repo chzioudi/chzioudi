@@ -34,9 +34,9 @@
 
 ---
 
-## 🛠️ Tecnologie / Technologies
+##  Tecnologie / Technologies
 
-## 🛠️ Tecnologie / Technologies
+
 
 <div align="center">
   
@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chzioudi&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
