@@ -6,31 +6,31 @@
 
 ## 🇮🇹 Chi sono
 
-💻 Sono uno **sviluppatore web full stack** con esperienza in **front-end** e **back-end**, appassionato di interfacce moderne e usabilità.
+ Sono uno **sviluppatore web full stack** con esperienza in **front-end** e **back-end**, appassionato di interfacce moderne e usabilità.
 
-🎨 Lavoro anche con software di grafica come **Illustrator** , **InDesign**, **Figma** e **Photoshop**, unendo **creatività e codice**.
+ Lavoro anche con software di grafica come **Illustrator** , **InDesign**, **Figma** e **Photoshop**, unendo **creatività e codice**.
 
-🚀 Creo soluzioni web performanti, accessibili e curate nei dettagli.
+ Creo soluzioni web performanti, accessibili e curate nei dettagli.
 
 ---
 
 ## 🇬🇧 About Me
 
-💻 I'm a **full stack web developer** experienced in **front-end** and **back-end**, passionate about clean interfaces and usability.
+ I'm a **full stack web developer** experienced in **front-end** and **back-end**, passionate about clean interfaces and usability.
 
-🎨 I combine creative tools like **Illustrator** and **Photoshop** with solid coding.
+ I combine creative tools like **Illustrator** and **Photoshop** with solid coding.
 
-🚀 I build high-performance, accessible, and detail-oriented digital products.
+ I build high-performance, accessible, and detail-oriented digital products.
 
 ---
 
 ## 🇫🇷 À propos de moi
 
-💻 Je suis un **développeur web full stack**, expert en **front-end** et **back-end**, passionné par les interfaces modernes et l’UX.
+ Je suis un **développeur web full stack**, expert en **front-end** et **back-end**, passionné par les interfaces modernes et l’UX.
 
-🎨 Je travaille aussi avec des outils créatifs comme **Illustrator** et **Photoshop** pour allier **créativité et technologie**.
+ Je travaille aussi avec des outils créatifs comme **Illustrator** et **Photoshop** pour allier **créativité et technologie**.
 
-🚀 Je crée des solutions web performantes, accessibles et esthétiques.
+ Je crée des solutions web performantes, accessibles et esthétiques.
 
 ---
 
@@ -70,20 +70,20 @@
 
 ---
 
-## 🧩 Cosa sto facendo ora / What I'm working on
 
-- ✨ Miglioro il mio sito portfolio: [www.chz-devweb.com](https://www.chz-devweb.com)
-- 👨‍💻 Studio nuove tecnologie JavaScript (es. REACT)
-- 📚 Aggiorno progetti su GitHub
-- 🤝 Aperto a collaborazioni freelance e nuove opportunità
+
+-  Miglioro il mio sito portfolio: [www.chz-devweb.com](https://www.chz-devweb.com)
+- Studio nuove tecnologie JavaScript ( REACT)
+-  Aggiorno progetti su GitHub
+-  Aperto a collaborazioni freelance e nuove opportunità
 
 ---
 
-## 📫 Contatti / Contact
+##  Contatti / Contact
 
-- 🌍 Sito Web: [www.chz-devweb.com](https://www.chz-devweb.com)
-- 📬 Email: [chafikzioudi11@gmail.com](mailto:chafikzioudi11@gmail.com)
-- 💼 LinkedIn: www.linkedin.com/in/chafik-zioud-abb035162
+-  Sito Web: [www.chz-devweb.com](https://www.chz-devweb.com)
+-  Email: [chafikzioudi11@gmail.com](mailto:chafikzioudi11@gmail.com)
+- LinkedIn: www.linkedin.com/in/chafik-zioud-abb035162
 
 ---
 
