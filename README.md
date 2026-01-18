@@ -4,15 +4,6 @@
 
 ---
 
-## 🇮🇹 Chi sono
-
- Sono uno **sviluppatore web full stack** con esperienza in **front-end** e **back-end**, appassionato di interfacce moderne e usabilità.
-
- Lavoro anche con software di grafica come **Illustrator** , **InDesign**, **Figma** e **Photoshop**, unendo **creatività e codice**.
-
- Creo soluzioni web performanti, accessibili e curate nei dettagli.
-
----
 
 ## 🇬🇧 About Me
 
@@ -24,13 +15,7 @@
 
 ---
 
-## 🇫🇷 À propos de moi
 
- Je suis un **développeur web full stack**, expert en **front-end** et **back-end**, passionné par les interfaces modernes et l’UX.
-
- Je travaille aussi avec des outils créatifs comme **Illustrator** et **Photoshop** pour allier **créativité et technologie**.
-
- Je crée des solutions web performantes, accessibles et esthétiques.
 
 ---
 
@@ -71,7 +56,7 @@
 
 
 -  Miglioro il mio sito portfolio: [www.chz-devweb.com](https://www.chz-devweb.com)
-- Studio nuove tecnologie JavaScript ( REACT)
+- Studio nuove tecnologie JavaScript ( REACT & TypeScript)
 -  Aggiorno progetti su GitHub
 -  Aperto a collaborazioni freelance e nuove opportunità
 
